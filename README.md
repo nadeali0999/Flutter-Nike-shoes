@@ -1,6 +1,6 @@
 # Nike-Shoes-App
 
-## Flutter Shoes Shop Application UI Design and Animation
+## Flutter Shoes Shop Mobile Application UI Design and Animation
 
 A beautiful and animated Shoes Shop Application UI with Flutter.
 
